@@ -44,5 +44,5 @@ $('.filter-link').on('click', function (e) {
     if (linkType === 'all') {
       $('.portfolio-item').show();
       return;
-    }
+    }```
     
