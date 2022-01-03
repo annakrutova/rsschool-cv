@@ -8,7 +8,7 @@
 #### *Email:* knop_k_a@mail.ru
 
 
-### About me: 
+### About me:
 
 
 ### Skils:
@@ -18,3 +18,14 @@
     -VScode
     -JavaScript (basic)
     -Figma (for web development)
+### Education:
+Yaroslav-the-Wise Novgorod State University, medical institute
+
+### Courses: 
+School Brunoyam "Front-end. Stage 0"
+
+### Languages:
+Russian: Native
+English: Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
+Franch: Basic
+Swedish: Basic 
